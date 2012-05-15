@@ -1,7 +1,7 @@
 /*
 Auteur : ZIANE-CHERIF Mohammed-El-Amine
 Date de Creation 12/05/2012 : 00:01
-Date de Dernière modification 12/05/2012 : 18:54
+Date de Derniï¿½re modification 12/05/2012 : 18:54
 */
 
 enum Rang {
@@ -10,7 +10,7 @@ enum Rang {
 	
 	// -------------------------------------Attribute-------------------------------------
 	int rang;
-	
+	test
 	// -------------------------------------Constructor-------------------------------------
 	Rang(int i)
 	{
